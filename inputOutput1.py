@@ -8,7 +8,7 @@ Task:
 The student must write a program that adheres to the following requirements:
 1. Allow the user to input 2 floating-point numbers.
 2. Calculate the average of these numbers.
-3. Display the calculated average to the user.
+3. Display the calculated average to the user
 """
 
 # Prompt the user to input the first floating-point number
