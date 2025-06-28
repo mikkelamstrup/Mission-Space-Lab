@@ -1,8 +1,7 @@
 """
 Solution for Task 1 of the "Mission Space Lab" project,
 a project developed by the Raspberry Pi Foundation and ESA Education.
-This task and solution were created by Mikkel Amstrup Brandt Neiiendam,
-educator and certified ESA Education mentor.
+This task and solution were created by Mikkel Amstrup Brandt Neiiendam.
 
 Task:
 The student must write a program that adheres to the following requirements:

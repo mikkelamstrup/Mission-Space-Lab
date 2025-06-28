@@ -1,8 +1,7 @@
 """
 Solution for Task 2 of the "Mission Space Lab" project,
 a project developed by the Raspberry Pi Foundation and ESA Education.
-This task and solution were created by Mikkel Amstrup Brandt Neiiendam,
-educator and certified ESA Education mentor.
+This task and solution were created by Mikkel Amstrup Brandt Neiiendam.
 
 Task 2:
 The program must now generate a “result.txt” file when it runs.

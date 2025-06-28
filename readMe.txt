@@ -75,7 +75,7 @@ The tasks and solutions were created by Mikkel Amstrup Brandt Neiiendam.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the scripts.
 4. Run the desired script using the command "python scriptnavn.py"
-   - Note on mac use the command "python scriptnavn.py"
+   - Note on mac use the command "python3 scriptnavn.py"
 
 ---
 

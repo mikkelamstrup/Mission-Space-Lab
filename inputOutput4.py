@@ -1,8 +1,7 @@
 """
 Solution for Task 3 of the "Mission Space Lab" project,
 a project developed by the Raspberry Pi Foundation and ESA Education.
-This task and solution were created by Mikkel Amstrup Brandt Neiiendam,
-educator and certified ESA Education mentor.
+This task and solution were created by Mikkel Amstrup Brandt Neiiendam.
 
 The program must:
 1. Generate random values for 1 minute.
