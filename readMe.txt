@@ -5,7 +5,7 @@ This repository contains solutions to tasks for the "Mission Space Lab" project,
 and ESA Education. These tasks are designed to teach students how to work with Python programming concepts such as user input, 
 file handling, random number generation, and working with time.
 
-The tasks and solutions were created by Mikkel Amstrup Brandt Neiiendam, educator and certified ESA Education mentor.
+The tasks and solutions were created by Mikkel Amstrup Brandt Neiiendam.
 
 ---
 
@@ -71,10 +71,11 @@ The tasks and solutions were created by Mikkel Amstrup Brandt Neiiendam, educato
 ---
 
 ## How to Run the Programs
-1. Ensure Python 3.x is installed on your system.
+1. Ensure Python 3.xx is installed on your system.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the scripts.
-4. Run the desired script 
+4. Run the desired script using the command "python scriptnavn.py"
+   - Note on mac use the command "python scriptnavn.py"
 
 ---
 
